@@ -1,5 +1,5 @@
-# It's a me! Irene
-###### Videogame reference: ✅
+# It's a me, Irene![^1]
+[^1]: Videogame reference: ✅
 
 ---
 
