@@ -14,6 +14,8 @@ I am currently practicing my knowledge working on my personal web, www.irenealca
 
 Be sure to visit my professional profile! -> <a href = 'https://www.linkedin.com/in/irenealcaine/'> <img width = '16px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 
+Send me a mail if you want to -> [![Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white)](mailto:irenealcainealvarez@gmail.com)
+
 ### TL;DR
 
 I like programming, my web is www.irenealcainealvarez.es, I want to be a programmer, please hire me. 😊
