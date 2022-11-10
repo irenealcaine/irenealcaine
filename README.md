@@ -1,7 +1,7 @@
 # It's a me, Irene![^1]
 [^1]: Videogame reference: ✅
 
-` “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.” – Michael Scott, Season 5, “Stress Relief” ` [^2]
+> “And I knew exactly what to do. But in a much more real sense, I had no idea what to do.” – Michael Scott, Season 5, “Stress Relief”  [^2]
 [^2]: The Office reference: ✅
 
 ## About me
@@ -12,9 +12,8 @@ I did a frontend bootcamp when I didn't know anything about programming where I 
 
 I am currently practicing my knowledge working on my personal web, www.irenealcainealvarez.es, using React and Tailwind and doing some other project to complete my portfolio, hoping to work professionally sooner rather than later in this profession that I like so much.
 
-Be sure to visit my professional profile! -> <a href = 'https://www.linkedin.com/in/irenealcaine/'> <img width = '16px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-
-Send me a mail if you want to -> [![Gmail](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-squared&logo=gmail&logoColor=white)](mailto:irenealcainealvarez@gmail.com)
+Ask me anything! -> <a href="mailto:irenealcainealvarez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-db4a39?style=flag&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/irenealcaine/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=flag&logo=linkedin&logoColor=white"></a>
 
 ### TL;DR
 
@@ -25,9 +24,9 @@ I like programming, my web is www.irenealcainealvarez.es, I want to be a program
 - Favourite book: Guards! Guards!
 - Currently reading: Mistborn
 - Favourite TV show: The Office
-- Currently watching: Breaking Bad (No spoilers!)
+- Currently watching: I have no time
 - Favourite videogame: Word of Warcraft
-- Currently playing: waiting for the next expansion
+- Currently playing: my favourite game
 
 ## Github stats
 
