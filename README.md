@@ -19,14 +19,9 @@ Ask me anything! -> <a href="mailto:irenealcainealvarez@gmail.com" target="_blan
 
 I like programming, my web is www.irenealcainealvarez.es, I want to be a programmer, please hire me. 😊
 
-### Other important information about me
+## Currently working on
 
-- Favourite book: Guards! Guards!
-- Currently reading: Mistborn
-- Favourite TV show: The Office
-- Currently watching: I have no time
-- Favourite videogame: Word of Warcraft
-- Currently playing: my favourite game
+- <a href="https://www.irenealcainealvarez.es" target="_blank">My personal web</a>
 
 ## Github stats
 
