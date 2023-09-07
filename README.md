@@ -29,6 +29,6 @@ I like programming, my web is [irenealcainealvarez.es](https://irenealcainealvar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenealcaine&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=irenealcaine&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irenealcaine&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=irenealcaine.irenealcaine&left_color=purple&right_color=blue) 
+![](https://komarev.com/ghpvc/?username=irenealcaine&color=blueviolet)
