@@ -1,7 +1,10 @@
 # It's a me, Irene![^1]
 [^1]: Videogame reference: ✅
 
-> “I understand nothing” – Michael Scott  [^2]
+<!--- > “I understand nothing” – Michael Scott  [^2] 
+[^2]: The Office reference: ✅ --->
+
+ ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Michael%20Scott&quote=I%20understand%20nothing&theme=algolia) [^2]
 [^2]: The Office reference: ✅
 
 ## About me
