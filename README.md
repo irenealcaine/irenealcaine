@@ -4,8 +4,7 @@
 <!--- > “I understand nothing” – Michael Scott  [^2] 
 [^2]: The Office reference: ✅ --->
 
- ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Michael%20Scott&quote=I%20understand%20nothing&theme=algolia) [^2]
-[^2]: The Office reference: ✅
+
 
 ## About me
 
@@ -28,6 +27,10 @@ I like programming, my web is [irenealcainealvarez.es](https://irenealcainealvar
 - ![Static Badge](https://img.shields.io/badge/Sass-black?logo=sass)
 - ![Static Badge](https://img.shields.io/badge/Node-black?logo=node.js)
 - ![Static Badge](https://img.shields.io/badge/Next-black?logo=next.js)
+
+
+ ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Michael%20Scott&quote=I%20understand%20nothing&theme=algolia) [^2]
+[^2]: The Office reference: ✅
 
 ## Currently working on
 
