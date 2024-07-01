@@ -45,3 +45,6 @@ I like programming, my web is [irenealcainealvarez.es](https://irenealcainealvar
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=irenealcaine&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=irenealcaine&color=blueviolet)
+
+![LeetCode Stats](https://leetcode.card.workers.dev/irenealcaine?theme=auto&font=baloo&extension=null)
+
