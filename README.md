@@ -1,10 +1,6 @@
-# It's a me, Irene![^1]
-[^1]: Videogame reference: ✅
+![Header](./your-header-image-name.png)
 
-<!--- > “I understand nothing” – Michael Scott  [^2] 
-[^2]: The Office reference: ✅ --->
-
-
+# Hi! 👋
 
 ## About me
 
