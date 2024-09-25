@@ -38,6 +38,4 @@ I like programming, my web is [irenealcainealvarez.es](https://irenealcainealvar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenealcaine&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/irenealcaine?theme=auto&font=baloo&extension=null)
-
 ![](https://komarev.com/ghpvc/?username=irenealcaine&color=blueviolet)
