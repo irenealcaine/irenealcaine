@@ -8,21 +8,13 @@ Technically I am an **engineer**, but a few years ago I discovered that the worl
 
 I did a frontend bootcamp when I didn't know anything about programming where I saw the essentials, ![Static Badge](https://img.shields.io/badge/HTML5-black?logo=HTML5), ![Static Badge](https://img.shields.io/badge/CSS3-black?logo=css3) and ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript) in addition to ![Static Badge](https://img.shields.io/badge/Git-black?logo=git), ![Static Badge](https://img.shields.io/badge/NPM-black?logo=npm) and other things. In the bootcamp my group and I did a project where we tested our skills using ![Static Badge](https://img.shields.io/badge/Vue-black?logo=vue.js), ![Static Badge](https://img.shields.io/badge/Firebase-black?logo=firebase), ![Static Badge](https://img.shields.io/badge/Sass-black?logo=sass) and ![Static Badge](https://img.shields.io/badge/Netlify-black?logo=netlify), while developing teamwork and working through the agile methodology. After that, I have been studying more tools from the frontend world, like ![Static Badge](https://img.shields.io/badge/React-black?logo=react) and ![Static Badge](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss).
 
-Since then I am continually practicing my knowledge by working on different projects and experiments that I almost always upload to my personal website, [irenealcainealvarez.es](https://irenealcainealvarez.es/). I really like learning ![Static Badge](https://img.shields.io/badge/React-black?logo=react) and I am always doing the odd project to complete my portfolio, hoping to be able to work professionally sooner rather than later in this profession that I like so much.
+Nowadays, I have been working for over a year as a programmer in a consulting company, facing new challenges every day and continuously learning. In my role, I work with different programming languages and technologies, collaborate in professional environments, and take part in deployment and production release processes, gaining a solid understanding of how projects move from development to production.
+
+Alongside my professional work, I keep practicing and experimenting by developing personal projects, which I usually upload to my personal website, [irenealcainealvarez.es](https://irenealcainealvarez.es/). I really enjoy working with ![Static Badge](https://img.shields.io/badge/React-black?logo=react) and continuing to expand my skills while building and refining my portfolio.
 
 Ask me anything! -> <a href="mailto:irenealcainealvarez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-db4a39?style=flag&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/irenealcaine/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=flag&logo=linkedin&logoColor=white"></a>
 
-### TL;DR
-
-I like programming, my web is [irenealcainealvarez.es](https://irenealcainealvarez.es/), I want to be a frontend developer, pleeeeeaaaaase hire me. 😊
-
-## Currently studying
-
-- ![Static Badge](https://img.shields.io/badge/TypeScript-black?logo=typescript)
-- ![Static Badge](https://img.shields.io/badge/Sass-black?logo=sass)
-- ![Static Badge](https://img.shields.io/badge/Node-black?logo=node.js)
-- ![Static Badge](https://img.shields.io/badge/Next-black?logo=next.js)
 
 
  ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Michael%20Scott&quote=I%20understand%20nothing&theme=dark) [^2]
