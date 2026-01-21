@@ -16,11 +16,6 @@ Ask me anything! -> <a href="mailto:irenealcainealvarez@gmail.com" target="_blan
   <a href="https://www.linkedin.com/in/irenealcaine/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=flag&logo=linkedin&logoColor=white"></a>
 
 
-
- ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Michael%20Scott&quote=I%20understand%20nothing&theme=dark) [^2]
-[^2]: The Office reference: ✅
-
-
 ## Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenealcaine&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
