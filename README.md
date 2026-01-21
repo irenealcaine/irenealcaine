@@ -20,9 +20,6 @@ Ask me anything! -> <a href="mailto:irenealcainealvarez@gmail.com" target="_blan
  ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Michael%20Scott&quote=I%20understand%20nothing&theme=dark) [^2]
 [^2]: The Office reference: ✅
 
-## Currently working on
-
-- <a href="https://www.irenealcainealvarez.es" target="_blank">My personal web</a>
 
 ## Github stats
 
