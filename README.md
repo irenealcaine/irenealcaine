@@ -1,3 +1,4 @@
+
 ![Header](./github-header-image.png)
 
 # Hi! 👋
@@ -54,13 +55,13 @@ More projects at [irenealcainealvarez.es](https://irenealcainealvarez.es/portfol
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=irenealcaine&show_icons=true&theme=midnight-purple" width="450" alt="GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=irenealcaine&show_icons=true&theme=midnight-purple" width="450" alt="GitHub stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irenealcaine&layout=compact&theme=midnight-purple" width="450" alt="Top Langs" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=irenealcaine&layout=compact&theme=midnight-purple" width="450" alt="Top Langs" />
   </a>
 </p>
 
